@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class GitHub here.
+ *we on gitHub
  *
  * @author Richard Pacheco
  * @version 
